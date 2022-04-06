@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://packages.scm-manager.org/repository/scm-cli-releases/0.1.0/scm-cli_0.1.0_Windows_x86_64.zip",
+            "bin": [
+                "scm.exe"
+            ],
+            "hash": "4681ac62dff8e0e121d2472d258302dbb0953e30da42d255f7d4b826d39ac5bc"
+        }
+    },
+    "homepage": "https://scm-manager.org/cli",
+    "license": "MIT",
+    "description": "SCM-Manager CLI Client"
+}
